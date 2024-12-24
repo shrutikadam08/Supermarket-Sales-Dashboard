@@ -8,7 +8,7 @@ It provides insights into sales performance, customer behavior, and revenue tren
 ## Dataset used
 -<a href="https://github.com/shrutikadam08/Supermarket-Sales-Dashboard/blob/main/sales.csv">Supermarket sales</a>
 
-## Questions 
+## Questions(KPIs)
 - What are the total sales and revenue generated?
 - Which cities or branches perform the best?
 - What are the most popular product categories?
