@@ -6,5 +6,6 @@ This project is a data visualization dashboard for analyzing supermarket sales d
 It provides insights into sales performance, customer behavior, and revenue trends using interactive visualizations.
 
 ## Dataset used
--<a href="https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales">Supermarket sales</a>
+-<a href="https://github.com/shrutikadam08/Supermarket-Sales-Dashboard/blob/main/sales.csv">Supermarket sales</a>
 
+https://github.com/shrutikadam08/Supermarket-Sales-Dashboard/blob/main/sales.mp4
