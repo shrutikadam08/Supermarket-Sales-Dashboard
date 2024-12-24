@@ -8,4 +8,11 @@ It provides insights into sales performance, customer behavior, and revenue tren
 ## Dataset used
 -<a href="https://github.com/shrutikadam08/Supermarket-Sales-Dashboard/blob/main/sales.csv">Supermarket sales</a>
 
-https://github.com/shrutikadam08/Supermarket-Sales-Dashboard/blob/main/sales.mp4
+## Questions 
+- What are the total sales and revenue generated?
+- Which cities or branches perform the best?
+- What are the most popular product categories?
+- How do sales vary over time (daily, monthly)?
+- What is the average transaction size for each customer group?
+-Dashboard Interaction -<a href="https://github.com/shrutikadam08/Supermarket-Sales-Dashboard/blob/main/sales.mp4">View Dashboard</a>
+
