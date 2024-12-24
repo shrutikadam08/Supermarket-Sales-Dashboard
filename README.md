@@ -14,5 +14,6 @@ It provides insights into sales performance, customer behavior, and revenue tren
 - What are the most popular product categories?
 - How do sales vary over time (daily, monthly)?
 - What is the average transaction size for each customer group?
+  
 -Dashboard Interaction -<a href="https://github.com/shrutikadam08/Supermarket-Sales-Dashboard/blob/main/sales.mp4">View Dashboard</a>
 
